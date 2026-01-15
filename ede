@@ -1,0 +1,5 @@
+CMake Error at /opt/ros/kilted/share/rosidl_cmake/cmake/rosidl_target_interfaces.cmake:41 (message):
+  rosidl_target_interfaces() the first argument 'mcl_node' must be a valid
+  target name
+Call Stack (most recent call first):
+  CMakeLists.txt:21 (rosidl_target_interfaces)
